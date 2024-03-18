@@ -1,0 +1,9 @@
+*.py
+!pSer 1.3.py
+!scripts.py
+*.db
+!test.db
+*.txt
+/venv
+/img
+/__pycache__
